@@ -13,7 +13,7 @@ export const PERSONAL_INFO = {
 
 export const SOCIAL_LINKS = {
     github: "https://github.com/rajnasit-dev",
-    linkedin: "https://www.linkedin.com/in/raj-nasit-a91b8037a",
+    linkedin: "https://www.linkedin.com/in/raj-nasit",
 };
 
 export const STATS = [
