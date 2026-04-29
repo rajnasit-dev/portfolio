@@ -2,7 +2,7 @@ export const PERSONAL_INFO = {
     name: "Raj Nasit",
     title: "Full Stack Developer",
     email: "nasitraj5678@gmail.com",
-    location: "Ahmedabad, India",
+    location: "Surat, India",
     tagline: "Crafting seamless digital experiences with code and creativity.",
     resume: '../assets/Raj_Nasit_Resume.pdf',
     bio: [
